@@ -3,6 +3,8 @@
 // https://www.instructables.com/Arduino-OLED-Snake-Game/
 // 15th November 2021
 
+// Modified by Struan Lawrie to use Adafruit MMA8451 accelerometer 08/12/2022
+
 
 #include <Wire.h>
 #include <Adafruit_MMA8451.h>
